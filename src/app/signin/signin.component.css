@@ -1,0 +1,16 @@
+*
+{
+    box-sizing: border-box;
+
+}
+.col-sm-6
+{
+    margin-top: 15px;
+    padding: 10px;
+}
+.card
+{
+    padding: 20px;
+}
+
+

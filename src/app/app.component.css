@@ -1,0 +1,20 @@
+.right
+{
+    display:flex;
+    margin-left: 650px;
+}
+
+body
+{
+    background-image: url("../assets/images/images.png");
+    
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 180vh;
+    
+    
+}
